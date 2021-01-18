@@ -1,0 +1,21 @@
+.col-lg-4{
+    background-color: rgb(230, 226, 222);
+    border:px solid black;
+    text-align: center;
+    padding:20px;
+}
+.header_{
+    background-color: ;
+}
+.title{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title-artical{
+    font-size:50px;
+}
+.title-head{
+    font-size: 80px;
+    text-align: center;
+}
